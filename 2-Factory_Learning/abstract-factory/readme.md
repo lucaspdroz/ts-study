@@ -1,6 +1,11 @@
 ## Abstract-Factory Pattern
 Is a way to encapsulate a Group of factories, without specifying their concrete classes.
 The client does not know (or care) which concrete objects it gets from each of these internal factories.
+
+<img src="../assets/Abstract-factory.svg" alt="Builder Factory Pattern flow" height="500">
+
+#
+
 ```js
 const logger = createLogger()
 

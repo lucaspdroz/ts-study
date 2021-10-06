@@ -40,5 +40,4 @@ export class LoggerFactory {
             return new DeveloperLogger()
         }
     }
-
 }
